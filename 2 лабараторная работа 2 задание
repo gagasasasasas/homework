@@ -1,0 +1,12 @@
+numbers = {12, 48, 3, 15, 1, 2, 3, 4}
+
+xMin  = min(numbers)
+xMax = max(numbers)
+
+for i in range (len(numbers)):
+  if numbers [i] % 2 == 0
+    numbers [i] = xMin
+else:
+  numbers [i]= xMax
+
+print(numbers)
